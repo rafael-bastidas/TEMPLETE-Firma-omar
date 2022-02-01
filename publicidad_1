@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+</head>
+
+<body>
+    <div class="night" style="width: 100%; table-layout: fixed; padding-top: 10px; padding-bottom: 20px; background: white;">
+        <table style="width: 100%; border-spacing: 0;">
+            <tr>
+                <td align="center" style="padding: 0;">
+                    <img src="https://hitpointmedia.com/email/logo.png" alt="none" style="display: block; width: 30vw; margin-bottom: 4vw;">
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 0;">
+                    <img src="https://hitpointmedia.com/email/banner.png" width="90%" alt="none"
+                        style="display: block; border-radius: 5px;">
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 0; font-size: 3vw;">
+                    <br>
+                    <p style="margin: 0; color: #000;"><b>En Intradex creemos en</b></p>
+                    <p style="margin: 0; color: #000;"><b>la importancia de avanzar juntos</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 0; text-align: justify; font-size: 3vw;">
+                    <br>
+                    <p style="margin: 0; color: #858585; width: 85%; padding-left: 7.5%;">
+                        Queremos celebrar cada paso que de todo aquel que nuevo necesite nuestros 
+                        <a href="mailto:inktradex@gmail.com">servicios de traducción</a>, y lo hacemos con el compromiso de valorar su confianza:
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 0; font-size: 3vw;">
+                    <br>
+                    <p style="margin: 0; color: #858585;"><b>Su primer proyecto con INTRADEX</b></p>
+                    <p style="margin: 0; color: #858585;"><b>llevará un 15% de descuento</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 0; font-size: 2.5vw;">
+                    <br><br><br>
+                    <p style="margin: 0; color: #858585;">Solicite su presupuesto sin compromiso</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
